@@ -104,7 +104,6 @@ footer{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    
   }
   .product{
     height: 300px;
@@ -114,20 +113,6 @@ footer{
     padding: 1px;
     margin: 10px 15px 10px 15px;
 
-  }
-  .product > p{
-    padding: 0;
-    text-align: start;
-  }
-  footer{
-    border-top: 1px solid rgb(173, 173, 173);
-  }
-  .social{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    list-style-type: none;
-    width: 97%;
   }
 }
 
